@@ -1,4 +1,4 @@
-<img src="imagem_post_yuri.jpg; alt="Swagger-post">
+<img src="imagem_post_yuri.jpg">
 <img src="imagem_get.jpg; alt="Swagger-get">
 <img src="thunder_post_yuri.jpg; alt="Thunder-post">
 <img src="thunder_get.jpg; alt="Thunder-get">
